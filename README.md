@@ -1,2 +1,2 @@
 # TenSort
-basic sort
+10中基础排序方法
